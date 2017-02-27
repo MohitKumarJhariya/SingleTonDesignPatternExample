@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using SingleTonDesignPattern.UserModule;
 namespace SingleTonDesignPattern
 {
+    /// <summary>
+    /// singleton design pattern states that a class only allows a single instance of itself to be created 
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
